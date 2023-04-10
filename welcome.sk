@@ -1,0 +1,4 @@
+on join:
+	send "&6Welcome to the &aServer-Name %player%"
+
+#You can change the Server-Name !
